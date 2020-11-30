@@ -1,0 +1,8 @@
+body{
+
+	background:-webkit-linear-gradient(rgb(254, 0, 99) 0%, rgb(135, 0, 255) 50%, rgb(0, 163, 255) 50%, rgb(230, 250, 6) 90%),
+			   -webkit-linear-gradient(left, rgb(254, 0, 99) 0%, rgb(135, 0, 255) 50%, rgb(0, 163, 255) 50%, rgb(230, 250, 6) 90%);
+
+	background-size: 100px 100px;
+
+}
